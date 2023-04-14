@@ -1,0 +1,32 @@
+
+body{
+    min-height: 2000px;
+}
+.jumbotron{
+    padding-top: 6rem;
+    background-color: beige;
+}
+
+#pendidikan{
+    background-color: beige;
+}
+
+#tugas{
+    background-color: beige;
+}
+
+.Box {
+    padding:10px;
+    max-width:500px;  
+    max-width: 500px;
+    margin: auto;
+}
+
+.header {
+    background-color:grey;
+    padding: 20px;
+}
+
+section{
+    padding-top: 5rem;
+}
